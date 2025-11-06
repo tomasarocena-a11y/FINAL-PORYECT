@@ -4,4 +4,20 @@ body{
     background-color:#1492db;   
 }
 
+ul{
+    list-style-type: none;
+    background-color: #dbab0b;
+    overflow: hidden;
+}
+li a{
+    float: left;
+    display: block;
+    width: 50px;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #d1861d;
+
 
